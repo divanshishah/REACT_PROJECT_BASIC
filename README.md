@@ -16,7 +16,7 @@ Clone the Repository
 
 bash
 Copy code
-git clone https://github.com/your-username/movieland.git
+git clone https://github.com/divanshishah/movieland.git
 cd movieland
 Install Dependencies Ensure you have Node.js and npm installed, then run:
 
