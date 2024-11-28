@@ -1,6 +1,4 @@
-# REACT_PROJECT_BASIC
-A basic project to understand React JS
-MovieLand
+# MOVIELAND
 MovieLand is a React-based web application that allows users to search for movies and view their details. It fetches data from the OMDB API and displays the results in an elegant and responsive interface.
 
 Features
